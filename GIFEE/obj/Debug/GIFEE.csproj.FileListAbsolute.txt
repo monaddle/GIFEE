@@ -1,0 +1,9 @@
+C:\Users\daniel\Documents\GitHub\GIFEE\GIFEE\bin\Debug\Multisian.exe.config
+C:\Users\daniel\Documents\GitHub\GIFEE\GIFEE\obj\Debug\Multisian.exe
+C:\Users\daniel\Documents\GitHub\GIFEE\GIFEE\obj\Debug\Multisian.pdb
+C:\Users\daniel\Documents\GitHub\GIFEE\GIFEE\bin\Debug\Multisian.exe
+C:\Users\daniel\Documents\GitHub\GIFEE\GIFEE\bin\Debug\Multisian.pdb
+C:\Users\daniel\Documents\GitHub\GIFEE\GIFEE\obj\Debug\GIFEE.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Documents\GitHub\GIFEE\GIFEE\obj\Debug\Multisian.frm_Main.resources
+C:\Users\daniel\Documents\GitHub\GIFEE\GIFEE\obj\Debug\Multisian.Properties.Resources.resources
+C:\Users\daniel\Documents\GitHub\GIFEE\GIFEE\obj\Debug\GIFEE.csproj.GenerateResource.Cache
